@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0ebffb1f-b448-4b73-8a80-aa50099b24ad)# EXP.NO.11-Simulation-of-Spread-Spectrum-Modulation-Techniques
+# EXP.NO.11-Simulation-of-Spread-Spectrum-Modulation-Techniques
 
 11.Simulation of Spread Spectrum Modulation Techniques
 Simulation of Spread Spectrum Modulation Techniques
